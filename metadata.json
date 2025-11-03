@@ -1,0 +1,5 @@
+{
+  "name": "IT Equipment Custody Form System",
+  "description": "An application for IT administrators to manage and record the loan of IT equipment to staff members, including capturing digital signatures and generating a formal agreement.",
+  "requestFramePermissions": []
+}
